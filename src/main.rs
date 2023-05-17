@@ -1,3 +1,6 @@
+// Copyright (c) 2023 Luka Ivanovic
+// This code is licensed under MIT licence (see LICENCE for details)
+
 use std::{
     collections::HashMap,
     env, fs,

@@ -12,7 +12,7 @@ This implementation may not pass all tests, but it is capable of running non-tri
 
 ### TODO
 - implement `#` for debugging purposes
-- add additional informations for debugging, more specifically, when creating the jump table, return the location of error
+- add additional information for debugging, more specifically, when creating the jump table, return the location of error
 - implement a flag for
   - buffered output on/off
   - logging levels (verbosity)
@@ -20,9 +20,9 @@ This implementation may not pass all tests, but it is capable of running non-tri
 ### Running
 Simply use `cargo run` and pass the filenames of the programs you want to execute.
 
-### License
+### Licence
 
-MIT License :)
+MIT Licence :)
 
-Regarding the example Brainfuck programs: If there is no license or credits inside the file itself, it means that it was either written by yours truly, or downloaded from http://brainfuck.org.
-If you are the author of any of the presented example programs, and you want it removed, please write me an email at idontcare@ljudi.org.
+Regarding the example Brainfuck programs: If there is no licence or credits inside the file itself, it means that it was either written by yours truly, or downloaded from http://brainfuck.org.
+If you are the author of the presented example programs, and you want it removed, please write me an email at idontcare@ljudi.org.
