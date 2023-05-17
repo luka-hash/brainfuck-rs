@@ -22,7 +22,7 @@ Simply use `cargo run` and pass the filenames of the programs you want to execut
 
 ### Licence
 
-MIT Licence :)
+This code is licensed under MIT licence (see LICENCE for details).
 
 Regarding the example Brainfuck programs: If there is no licence or credits inside the file itself, it means that it was either written by yours truly, or downloaded from http://brainfuck.org.
 If you are the author of the presented example programs, and you want it removed, please write me an email at idontcare@ljudi.org.
